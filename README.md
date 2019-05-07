@@ -28,6 +28,10 @@
 - gensim
 
 # Run on local:
-- checkout the project : git clone https://github.com/diem-ai/Risk-and-Return-ROI.git
+- checkout the project : git clone https://github.com/diem-ai/topic-modeling.git
 - install libraries in requirements and dependencies
 - Read the notebook without installation: view htlm file.
+
+# Improvements (Next commits):
+- Pulling more data + Appyling dimensionality reductions (Trunked Singular Decomposition - SVD)
+- try out the same datasets with Latent Sentiment Analysis (LSA) and Non Negative Matrix (NNM) to see which one outperform which one
