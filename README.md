@@ -26,6 +26,8 @@
 - scikit-learn
 - numpy
 - gensim
+- Scipy
+
 
 # Run on local:
 - checkout the project : git clone https://github.com/diem-ai/topic-modeling.git
