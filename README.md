@@ -12,7 +12,8 @@
 - Caculate the Perplexity and Topic Cohenrence between two models
 - Visualize topics with the help of pyLDAvis
 ## Dataset:
-- Request real time data from https://www.reuters.com/breakingviews
+- Retrieving top 200 breaking news from https://www.reuters.com/breakingviews
+- Cleaning the data & save them into csv file in order to do analysis and to build model
 
 ## Requirements
 - Python >= 3.7
