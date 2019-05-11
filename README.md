@@ -15,8 +15,8 @@
 - Request real time data from https://www.reuters.com/breakingviews
 
 # Requirements
--Python >= 3.7
--Jupyter Notebook
+- Python >= 3.7
+- Jupyter Notebook
 
 # Dependencies
 - pandas
