@@ -27,12 +27,14 @@
 - numpy
 - gensim
 - Scipy
+- nltk
+- string
 
 ## Run on local:
-- checkout the project : git clone https://github.com/diem-ai/topic-modeling.git
-- install libraries in requirements and dependencies
+- Checkout the project : git clone https://github.com/diem-ai/topic-modeling.git
+- Install the latest version of libraries in requirements and dependencies
 - Read the notebook without installation: view Breakingnews-Topic Modeling-LDA.htlm file.
 
 ## Improvements (Next commits):
 - Pulling more data + Appyling dimensionality reductions (Trunked Singular Decomposition - SVD)
-- try out the same datasets with Latent Sentiment Analysis (LSA) and Non Negative Matrix (NNM) to see which one outperform which one
+- Try out the same datasets with Latent Sentiment Analysis (LSA) and Non Negative Matrix (NNM) to see which one outperform which one
