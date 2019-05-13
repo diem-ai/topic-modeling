@@ -8,6 +8,12 @@
 - Retrieving top 500 latest breaking news from https://www.reuters.com/breakingviews 
 - Cleaning the data with beautifulsoup & save them into csv file (data/breakingnews.csv) in order to do analysis and to build model
 ### Code
+- get_historical_news.py: pulling historial news from  https://www.reuters.com/breakingviews 
+- accessory_function.py: is a collection of functions used in notebooks
+   * clean raw data
+   * sort returned values
+   * write pickle file
+   * read pickle file
 - model_preparation.ipynb:
    * Read breakingnews.csv and clean special letters
    * Visualize the most popular words by WordCloud
