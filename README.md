@@ -59,6 +59,7 @@
 - Checkout the project : git clone https://github.com/diem-ai/topic-modeling.git
 - Install the latest version of libraries in requirements and dependencies
 - Run get_historical_news.py to collect 500 latest news : python get_historical_news.py
+- Comment <code> Colab Setup </code> and change <code> data path </code> in notebooks
 - Run model_preparation.ipynb to produce the data
 - Run Topic Modeling-LDA.ipynb for LDA topic modeling
 - Run Topic Modeling-LSA.ipynb for LSA topic modeling
