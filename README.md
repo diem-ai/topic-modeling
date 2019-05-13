@@ -12,7 +12,7 @@
    * Read breakingnews.csv and clean special letters
    * Visualize the most popular words by WordCloud
    * Create dictionary from processed data and save it as dictionary.plk (/data/dictionary.pkl)
-   * Create a corpus from processed data and save it in /data/corpus.pkl
+   * Create a corpus from processed data and save it in <code>/data/corpus.pkl</code>
    * Create bag of words (BOW) and save it in /data/bow.pkl
    * Create a TF-IDF and save it in /data/tfidf.pkl
 - Topic Modeling-LDA.ipynb:
