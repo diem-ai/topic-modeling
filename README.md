@@ -22,8 +22,8 @@
    * Visual the topics and their words with pyLDAvis
    * Calulate Perplexity and Topic Cohenrence between two models
 - Topic Modeling-LSA.ipynb:
-   * Build LSA model with bag-of-word from corpus.pkl,bow.pkl and dictionary.pkl
-   * Build LSA model with bag-of-word from ifidf.pkl,bow.pkl and dictionary.pkl
+   * Build LSA model with bag-of-word from <code> processed_data.pkl,bow.pkl, dictionary.pkl </code>
+   * Build LSA model with TF-IDF from <code>  processed_data.pk, ifidf.pkl, dictionary.pkl </code>
    * Print top 5 topics of each model and interpret the results
 
 ### View notebooks without installation
