@@ -32,8 +32,11 @@
    * Build LSA model with TF-IDF from <code>  processed_data.pk, ifidf.pkl, dictionary.pkl </code>
    * Print top 5 topics of each model and interpret the results
 
-### View notebooks without installation
-- Check out htlm directory
+### View notebooks with Colab
+- model_preparation.ipynb: https://colab.research.google.com/drive/1VLf69UIoJ79TuMq2fh4BOnd8qeTzYUBI?authuser=1#scrollTo=aiERuDAhef71
+- Topic Modeling-LDA.ipynb: https://colab.research.google.com/drive/1RhSUArIbix4oF3ZbfSC94lHlTjhtBLUr?authuser=1#scrollTo=f28PG4o7x4SB
+- Topic Modeling-LSA.ipynb : https://colab.research.google.com/drive/1ZLiw8up2og9UVa2D6A8Wqa_P3YbJgWX7?authuser=1#scrollTo=rfjSPpiY299P
+
 
 ## Project tasks:
 - Cleaning the dataset & Lemmatization
