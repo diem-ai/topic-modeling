@@ -12,12 +12,12 @@
    * Read breakingnews.csv and clean special letters
    * Visualize the most popular words by WordCloud
    * Create dictionary from processed data and save it as dictionary.plk (/data/dictionary.pkl)
-   * Create a corpus from processed data and save it in <code>/data/corpus.pkl</code>
+   * Create a corpus from processed data and save it in <code>/data/processed_data.pkl</code>
    * Create bag of words (BOW) and save it in <code>/data/bow.pkl</code>
    * Create a TF-IDF and save it in <code>/data/tfidf.pkl</code>
 - Topic Modeling-LDA.ipynb:
-   * Build LDA model with bag-of-word from <code>corpus.pkl</code> , <code>bow.pkl </code> and <code> dictionary.pkl </code>
-   * Build LDA model with bag-of-word from <code> ifidf.pkl </code>, <code> bow.pkl </code> and <code>dictionary.pkl</code>
+   * Build LDA model with bag-of-word from <code>processed_data.pkl</code> , <code>bow.pkl </code> and <code> dictionary.pkl </code>
+   * Build LDA model with TF-IDF from <code>processed_data.pkl</code> ,  <code> ifidf.pkl </code> and <code>dictionary.pkl</code>
    * Print top 5 topics of each model and interpret the results
    * Visual the topics and their words with pyLDAvis
    * Calulate Perplexity and Topic Cohenrence between two models
