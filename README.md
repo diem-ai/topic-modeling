@@ -9,7 +9,7 @@
 - Cleaning the data with beautifulsoup & save them into csv file (data/breakingnews.csv) in order to do analysis and to build model
 ### Code
 - get_historical_news.py: pulling historial news from  https://www.reuters.com/breakingviews 
-- accessory_function.py: is a collection of functions used in notebooks
+- accessory_function.py: is a collection of functions imported in notebooks
    * clean raw data
    * sort returned values
    * write pickle file
