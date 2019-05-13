@@ -54,6 +54,7 @@
 - string
 - beautifulsoup
 - WordCloud
+- requests
 
 ## Run on local:
 - Checkout the project : git clone https://github.com/diem-ai/topic-modeling.git
